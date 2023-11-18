@@ -9,6 +9,7 @@
     <Description>Calculadora de IMC e Macronutrientes</Description>
     <PackageIcon>icone.png</PackageIcon>
     <PackageId>healthcalc-dotnet</PackageId>
+    <Version>1.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
