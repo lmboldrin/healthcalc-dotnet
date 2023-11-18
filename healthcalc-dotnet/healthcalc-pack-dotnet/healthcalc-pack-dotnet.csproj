@@ -5,6 +5,17 @@
     <RootNamespace>healthcalc_pack_dotnet</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>Health Calc Pack</Title>
+    <Description>Calculadora de IMC e Macronutrientes</Description>
+    <PackageIcon>icone.png</PackageIcon>
+    <PackageId>healthcalc-dotnet</PackageId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\arquivos\icone.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
